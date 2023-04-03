@@ -8,7 +8,7 @@ const minute = second * 60;
 const hour = minute * 60;
 const day = hour * 24;
 
-const countDownDate = new Date("Mar 31, 2024 12:00:00").getTime();
+const countDownDate = new Date("Apr 3, 2023 11:46:00").getTime();
 
 const myInterval = setInterval(interval, 1000);
 
